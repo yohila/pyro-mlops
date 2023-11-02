@@ -127,6 +127,7 @@ runs/
 
 # MLFlow files
 mlruns/
+backend.db
 
 # DVC Files
 .dvc
