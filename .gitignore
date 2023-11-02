@@ -125,4 +125,10 @@ datasets
 runs/
 *.pt
 
+# MLFlow files
+mlruns/
+
+# DVC Files
+.dvc
+
 
