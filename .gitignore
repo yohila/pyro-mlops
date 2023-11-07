@@ -132,6 +132,6 @@ mlruns/
 YOLOv8/
 
 # DVC Files
-.dvc
+#.dvc
 
 
