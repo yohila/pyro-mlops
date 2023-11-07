@@ -1,4 +1,4 @@
 [core]
     remote = datastore
 ['remote "datastore"']
-    url = s3://sani-my-dvc-store
+    url = http://sani-my-dvc-store.s3-website.us-east-2.amazonaws.com
