@@ -8,26 +8,28 @@
 
 ```shell
 pip install -r /requirements.txt
+```
 
 ### Download dataset
 
 ```shell
 dvc pull
-
+```
 ### Launch the Code
 
 ```shell
 python Yolov8_Pyronear_MLFlow.py
-
+```
 ### Launch the MLFlow
 
 ```shell
 mlflow server --backend-store-uri runs/mlflow
-
+```
 ### Open the MLFlow UI
 
 ```shell
 http://127.0.0.1:5000 [To Track your Experiments]
+```
 
 ###  #####################################################################################
 
