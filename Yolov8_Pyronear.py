@@ -1,6 +1,6 @@
 
 # %%
-from ultralytics import YOLO
+from ultralytics import YOLO, settings
 import ultralytics
 import os, shutil
 import yaml

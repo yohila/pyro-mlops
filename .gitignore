@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv*/
 
 # Spyder project settings
 .spyderproject
@@ -128,6 +129,7 @@ runs/
 # MLFlow files
 mlruns/
 *.db
+YOLOv8/
 
 # DVC Files
 .dvc
